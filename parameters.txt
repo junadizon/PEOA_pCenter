@@ -1,0 +1,14 @@
+p 6
+So 2880
+Smin 5
+A 2.6
+Nmax 120000
+V 0.1
+M 0.2
+H 240
+Sloc 1440
+rho 0.03
+dset 1
+dim 2
+ftrue 0.0
+runs 15
